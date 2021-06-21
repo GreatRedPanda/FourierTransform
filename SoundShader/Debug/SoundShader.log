@@ -1,0 +1,6 @@
+﻿  SoundShader.cpp
+C:\Users\Office_1\source\repos\SoundShader\SoundShader\SoundShader.cpp(23,15): warning C4244: инициализация: преобразование "sf::Uint64" в "int", возможна потеря данных
+C:\Users\Office_1\source\repos\SoundShader\SoundShader\SoundShader.cpp(28,22): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Office_1\source\repos\SoundShader\SoundShader\SoundShader.cpp(29,21): warning C4244: инициализация: преобразование "sf::Uint64" в "int", возможна потеря данных
+C:\Users\Office_1\source\repos\SoundShader\SoundShader\SoundShader.cpp(20,11): warning C4101: sounds: неиспользованная локальная переменная
+  SoundShader.vcxproj -> C:\Users\Office_1\source\repos\SoundShader\Debug\SoundShader.exe
